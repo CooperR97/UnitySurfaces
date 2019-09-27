@@ -14,7 +14,7 @@
 <p align="center">
   <img width="300" src=ScreenShots/import.png>
 </p>
-<p>5) Under the hierarchy window, press Create -> Create Empty. Rename the empty object to "Graph"</p>
+<p>5) Under the hierarchy window in Unity, press Create -> Create Empty. Rename the empty object to "Graph"</p>
 <p>6) Drag the "Graph" Script from the project window to the "Graph" object in the hierarchy window and then drag the "Cube" prefab to the "Point Prefab" box in the hierarchy window</p>
 <p align="center">
   <img width="720"  src=ScreenShots/unity.png>
