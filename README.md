@@ -20,6 +20,6 @@
   <img width="720"  src=ScreenShots/unity.png>
 </p>
 <p>7) Play with the resolution and the different functions and press the "Play" button at the top of the screen to see the results!</p>
-![](ScreenShots/sine.gif)
+![](sine.gif)
 
 <p> Apadpted and modified from: https://catlikecoding.com/unity/tutorials/basics/mathematical-surfaces/ </p>
